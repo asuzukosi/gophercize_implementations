@@ -1,0 +1,1 @@
+Implementation of simple projects in go, following the gophercises projects from Jon Calhoun
